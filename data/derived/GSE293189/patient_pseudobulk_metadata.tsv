@@ -1,0 +1,94 @@
+pseudobulk_id	patient	specimen	group	n_cells	n_samples
+11734__tumor__Mature DC	11734	tumor	Mature DC	4	1
+11734__tumor__Other myeloid	11734	tumor	Other myeloid	562	1
+11734__tumor__cDC1	11734	tumor	cDC1	5	1
+11734__tumor__cDC2	11734	tumor	cDC2	142	1
+11734__tumor__pDC	11734	tumor	pDC	16	1
+12041__tumor__Mature DC	12041	tumor	Mature DC	20	1
+12041__tumor__Other myeloid	12041	tumor	Other myeloid	623	1
+12041__tumor__cDC1	12041	tumor	cDC1	8	1
+12041__tumor__cDC2	12041	tumor	cDC2	118	1
+12041__tumor__pDC	12041	tumor	pDC	28	1
+12049__tumor__Mature DC	12049	tumor	Mature DC	14	1
+12049__tumor__Other myeloid	12049	tumor	Other myeloid	487	1
+12049__tumor__cDC1	12049	tumor	cDC1	2	1
+12049__tumor__cDC2	12049	tumor	cDC2	47	1
+12049__tumor__pDC	12049	tumor	pDC	35	1
+12050__normal__Other myeloid	12050	normal	Other myeloid	8	1
+12050__tumor__Mature DC	12050	tumor	Mature DC	25	2
+12050__tumor__Other myeloid	12050	tumor	Other myeloid	629	2
+12050__tumor__cDC1	12050	tumor	cDC1	11	2
+12050__tumor__cDC2	12050	tumor	cDC2	59	2
+12050__tumor__pDC	12050	tumor	pDC	61	2
+20847__normal__Other myeloid	20847	normal	Other myeloid	12	2
+20847__normal__cDC2	20847	normal	cDC2	3	1
+20847__tumor__Mature DC	20847	tumor	Mature DC	8	2
+20847__tumor__Other myeloid	20847	tumor	Other myeloid	732	5
+20847__tumor__cDC1	20847	tumor	cDC1	7	3
+20847__tumor__cDC2	20847	tumor	cDC2	65	3
+20847__tumor__pDC	20847	tumor	pDC	39	3
+21032__normal__Mature DC	21032	normal	Mature DC	68	3
+21032__normal__Other myeloid	21032	normal	Other myeloid	1959	3
+21032__normal__cDC1	21032	normal	cDC1	87	3
+21032__normal__cDC2	21032	normal	cDC2	1955	3
+21032__normal__pDC	21032	normal	pDC	154	3
+21032__tumor__Mature DC	21032	tumor	Mature DC	10	1
+21032__tumor__Other myeloid	21032	tumor	Other myeloid	549	1
+21032__tumor__cDC1	21032	tumor	cDC1	13	1
+21032__tumor__cDC2	21032	tumor	cDC2	163	1
+21032__tumor__pDC	21032	tumor	pDC	26	1
+21217__normal__Other myeloid	21217	normal	Other myeloid	1	1
+21217__tumor__Other myeloid	21217	tumor	Other myeloid	18	4
+21217__tumor__cDC1	21217	tumor	cDC1	5	3
+21217__tumor__cDC2	21217	tumor	cDC2	10	2
+21222__normal__Other myeloid	21222	normal	Other myeloid	17	2
+21222__normal__cDC1	21222	normal	cDC1	1	1
+21222__normal__pDC	21222	normal	pDC	1	1
+21222__tumor__Other myeloid	21222	tumor	Other myeloid	25	5
+21222__tumor__cDC1	21222	tumor	cDC1	4	4
+21222__tumor__cDC2	21222	tumor	cDC2	1	1
+21222__tumor__pDC	21222	tumor	pDC	2	1
+21226__normal__Other myeloid	21226	normal	Other myeloid	23	2
+21226__normal__cDC2	21226	normal	cDC2	7	2
+21226__normal__pDC	21226	normal	pDC	1	1
+21226__tumor__Mature DC	21226	tumor	Mature DC	4	3
+21226__tumor__Other myeloid	21226	tumor	Other myeloid	127	6
+21226__tumor__cDC1	21226	tumor	cDC1	1	1
+21226__tumor__cDC2	21226	tumor	cDC2	18	3
+21226__tumor__pDC	21226	tumor	pDC	1	1
+FG__normal__Other myeloid	FG	normal	Other myeloid	18	1
+FG__normal__cDC1	FG	normal	cDC1	1	1
+FG__normal__cDC2	FG	normal	cDC2	5	1
+FG__tumor__Mature DC	FG	tumor	Mature DC	2	2
+FG__tumor__Other myeloid	FG	tumor	Other myeloid	38	6
+FG__tumor__cDC1	FG	tumor	cDC1	8	6
+FG__tumor__cDC2	FG	tumor	cDC2	6	5
+FG__tumor__pDC	FG	tumor	pDC	3	3
+HG__tumor__Other myeloid	HG	tumor	Other myeloid	16	1
+HG__tumor__cDC1	HG	tumor	cDC1	1	1
+JM__normal__Mature DC	JM	normal	Mature DC	1	1
+JM__normal__Other myeloid	JM	normal	Other myeloid	31	1
+JM__normal__cDC2	JM	normal	cDC2	3	1
+JM__tumor__Other myeloid	JM	tumor	Other myeloid	106	2
+JM__tumor__cDC1	JM	tumor	cDC1	1	1
+JM__tumor__cDC2	JM	tumor	cDC2	1	1
+JM__tumor__pDC	JM	tumor	pDC	2	2
+PG_M__normal__Other myeloid	PG_M	normal	Other myeloid	7	1
+PG_M__normal__cDC1	PG_M	normal	cDC1	1	1
+PG_M__normal__cDC2	PG_M	normal	cDC2	2	1
+PG_M__tumor__Mature DC	PG_M	tumor	Mature DC	7	1
+PG_M__tumor__Other myeloid	PG_M	tumor	Other myeloid	424	2
+PG_M__tumor__cDC1	PG_M	tumor	cDC1	6	2
+PG_M__tumor__cDC2	PG_M	tumor	cDC2	45	2
+PG_M__tumor__pDC	PG_M	tumor	pDC	21	2
+PG_S__normal__Other myeloid	PG_S	normal	Other myeloid	141	2
+PG_S__normal__cDC1	PG_S	normal	cDC1	4	1
+PG_S__normal__cDC2	PG_S	normal	cDC2	22	2
+PG_S__normal__pDC	PG_S	normal	pDC	8	2
+PG_S__tumor__Mature DC	PG_S	tumor	Mature DC	3	1
+PG_S__tumor__Other myeloid	PG_S	tumor	Other myeloid	616	2
+PG_S__tumor__cDC1	PG_S	tumor	cDC1	10	2
+PG_S__tumor__cDC2	PG_S	tumor	cDC2	43	2
+PG_S__tumor__pDC	PG_S	tumor	pDC	30	2
+PS__tumor__Other myeloid	PS	tumor	Other myeloid	14	2
+SG__tumor__cDC2	SG	tumor	cDC2	2	2

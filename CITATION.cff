@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and the original datasets."
+title: "Bladder cDC1 Cross-Presentation: single-cell and immunotherapy cohort analysis"
+type: software
+authors:
+  - family-names: "Feng"
+    given-names: "Zhen"
+repository-code: "https://github.com/fengzhen01/bladder-cdc1-cross-presentation"
+license: MIT
+date-released: 2026-10-21
+version: 0.1.0
+abstract: "Reproducible analysis code and derived results for evaluating cDC1 identity, antigen cross-presentation programs and immunotherapy associations in bladder cancer."
+

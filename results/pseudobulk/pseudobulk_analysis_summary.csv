@@ -1,0 +1,4 @@
+"comparison","analysis","patients","genes","FDR_0.05","FDR_0.10","pathways_FDR_0.05","pathways_FDR_0.10"
+"cDC1 vs cDC2","primary",8,10591,779,1026,162,277
+"cDC1 vs Mature DC","exploratory",7,7560,229,316,39,43
+"cDC1 vs cDC2","sensitivity",9,11337,918,1183,254,350

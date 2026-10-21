@@ -1,0 +1,22 @@
+{
+  "raw_cells": 56192,
+  "qc_cells_before_doublet": 26468,
+  "doublets_removed": 1753,
+  "final_cells": 24715,
+  "genes": 25594,
+  "patients": 16,
+  "samples": 67,
+  "clusters": 32,
+  "myeloid_dc_cells": 10670,
+  "tumor_cDC1_cells": 82,
+  "tumor_cDC1_patients": 14,
+  "qc_thresholds": {
+    "min_genes": 150,
+    "max_genes": 5000,
+    "min_counts": 300,
+    "max_mito_percent": 25.0
+  },
+  "tumor_cDC1_cells_refined": 82,
+  "tumor_cDC1_patients_refined": 14,
+  "DC_definition_note": "cDC1/cDC2/pDC require immune+APC evidence and subtype markers; mature DC requires at least two of LAMP3/CCR7/FSCN1."
+}

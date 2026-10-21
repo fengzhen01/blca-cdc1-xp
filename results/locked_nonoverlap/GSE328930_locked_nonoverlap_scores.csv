@@ -1,0 +1,67 @@
+"ID","Group","Pathological_response","sample_id","cross_nonoverlap","response","evaluable"
+"Sample_2702201","HOT-ICI","Pathological complete response","Sample_2702201",0.377143108763829,1,TRUE
+"Sample_2702202","HOT-NAC","Pathological complete response","Sample_2702202",-1.63167091480833,1,FALSE
+"Sample_2708201","HOT-NAC","Pathological partial response","Sample_2708201",0.130357114883731,1,FALSE
+"Sample_2708202","HOT-NAC","No response","Sample_2708202",0.371474843900621,0,FALSE
+"Sample_2708205","HOT-NAC","No response","Sample_2708205",0.663390873368158,0,FALSE
+"Sample_2708206","HOT-ICI","Pathological complete response","Sample_2708206",0.143536193862332,1,TRUE
+"Sample_2708207","HOT-ICI","No response","Sample_2708207",0.0473990755417403,0,TRUE
+"Sample_2708208","HOT-ICI","No surgery","Sample_2708208",0.330615458036024,NA,FALSE
+"Sample_2708209","HOT-ICI","Pathological partial response","Sample_2708209",-0.123192759342092,1,TRUE
+"Sample_2709101","HOT-ICI","Pathological complete response","Sample_2709101",1.49528878678469,1,TRUE
+"Sample_2709202","HOT-ICI","No response","Sample_2709202",-0.0759796511059833,0,TRUE
+"Sample_2709203","HOT-NAC","Pathological complete response","Sample_2709203",0.142592810704532,1,FALSE
+"Sample_2709204","HOT-ICI","Pathological complete response","Sample_2709204",0.729886787526347,1,TRUE
+"Sample_2709205","HOT-ICI","No response","Sample_2709205",-1.05768427786161,0,TRUE
+"Sample_2709206","HOT-NAC","No response","Sample_2709206",0.534724245283897,0,FALSE
+"Sample_2709207","HOT-ICI","Pathological complete response","Sample_2709207",0.0847388146299398,1,TRUE
+"Sample_2711101","COLD-NAC","No response","Sample_2711101",0.270976373775978,0,FALSE
+"Sample_2713101","HOT-ICI","Pathological complete response","Sample_2713101",0.485258534328744,1,TRUE
+"Sample_2713102","COLD-NAC","Pathological complete response","Sample_2713102",-0.56629074693102,1,FALSE
+"Sample_2713201","COLD-NAC","Pathological complete response","Sample_2713201",-1.03161104308683,1,FALSE
+"Sample_2713202","HOT-NAC","No response","Sample_2713202",-0.120302886419008,0,FALSE
+"Sample_2713203","HOT-NAC","No surgery","Sample_2713203",-0.136673328066124,NA,FALSE
+"Sample_2713204","COLD-NAC","Pathological partial response","Sample_2713204",-0.0672828470691884,1,FALSE
+"Sample_2713205","HOT-NAC","Pathological complete response","Sample_2713205",0.540452627980291,1,FALSE
+"Sample_2713206","HOT-NAC","No response","Sample_2713206",0.510335466752654,0,FALSE
+"Sample_2713207","COLD-NAC","Pathological complete response","Sample_2713207",-0.467543402405665,1,FALSE
+"Sample_2714201","COLD-NAC","No response","Sample_2714201",-0.445522642857381,0,FALSE
+"Sample_2714202","HOT-ICI","No response","Sample_2714202",0.235865611466912,0,TRUE
+"Sample_2714204","HOT-NAC","No response","Sample_2714204",-0.0137698150756689,0,FALSE
+"Sample_2714206","COLD-NAC","Pathological complete response","Sample_2714206",-0.537038049538931,1,FALSE
+"Sample_2714207","HOT-ICI","Pathological partial response","Sample_2714207",-1.1425843810537,1,TRUE
+"Sample_2715101","HOT-ICI","No response","Sample_2715101",-0.0174895451510004,0,TRUE
+"Sample_2715102","COLD-NAC","No response","Sample_2715102",0.258168850744673,0,FALSE
+"Sample_2715103","HOT-ICI","Pathological partial response","Sample_2715103",1.09518619471103,1,TRUE
+"Sample_2715201","COLD-NAC","Pathological complete response","Sample_2715201",0.329072990020423,1,FALSE
+"Sample_2715202","HOT-ICI","Pathological complete response","Sample_2715202",-0.250534058367884,1,TRUE
+"Sample_2715203","COLD-NAC","No response","Sample_2715203",-0.265373400995106,0,FALSE
+"Sample_2715204","COLD-NAC","No response","Sample_2715204",-0.526493626268265,0,FALSE
+"Sample_2715205","COLD-NAC","Pathological complete response","Sample_2715205",0.124750984237033,1,FALSE
+"Sample_2715206","COLD-NAC","No response","Sample_2715206",-2.24138240485286,0,FALSE
+"Sample_2715207","HOT-ICI","Pathological complete response","Sample_2715207",-1.19459898862163,1,TRUE
+"Sample_2715208","HOT-NAC","Pathological partial response","Sample_2715208",-0.0425017690979253,1,FALSE
+"Sample_2715210","HOT-ICI","Pathological partial response","Sample_2715210",-0.642665531932488,1,TRUE
+"Sample_2715211","HOT-NAC","No response","Sample_2715211",0.883850863143075,0,FALSE
+"Sample_2716201","HOT-ICI","No response","Sample_2716201",0.203099444475091,0,TRUE
+"Sample_2716202","COLD-NAC","No response","Sample_2716202",-0.412390541364264,0,FALSE
+"Sample_2716203","HOT-ICI","No response","Sample_2716203",-0.0192980261060472,0,TRUE
+"Sample_2716205","COLD-NAC","No response","Sample_2716205",0.110037378092402,0,FALSE
+"Sample_2716206","HOT-ICI","No response","Sample_2716206",0.0800605299814005,0,TRUE
+"Sample_2717101","HOT-ICI","Pathological complete response","Sample_2717101",1.25960384241542,1,TRUE
+"Sample_2717102","HOT-ICI","No response","Sample_2717102",1.40063487875124,0,TRUE
+"Sample_2718101","COLD-NAC","No response","Sample_2718101",-0.0463032734001044,0,FALSE
+"Sample_2718102","COLD-NAC","Pathological complete response","Sample_2718102",-0.288570820761674,1,FALSE
+"Sample_2718201","HOT-NAC","Pathological complete response","Sample_2718201",-1.11711070366864,1,FALSE
+"Sample_2718202","HOT-NAC","Pathological partial response","Sample_2718202",1.13560391423556,1,FALSE
+"Sample_2718203","HOT-NAC","Pathological complete response","Sample_2718203",0.251376087981152,1,FALSE
+"Sample_2718204","HOT-ICI","No surgery","Sample_2718204",-0.0154502930797312,NA,FALSE
+"Sample_2718205","HOT-NAC","No response","Sample_2718205",-1.19086768842633,0,FALSE
+"Sample_2718206","COLD-NAC","Pathological complete response","Sample_2718206",0.0946728786616357,1,FALSE
+"Sample_2718207","HOT-ICI","Pathological complete response","Sample_2718207",0.335622882675211,1,TRUE
+"Sample_2719201","HOT-NAC","No response","Sample_2719201",-0.269389250335287,0,FALSE
+"Sample_2719202","COLD-NAC","Pathological complete response","Sample_2719202",-0.353681689583834,1,FALSE
+"Sample_2719203","HOT-ICI","No response","Sample_2719203",0.253427556680736,0,TRUE
+"Sample_2719204","HOT-NAC","No response","Sample_2719204",0.146993891911684,0,FALSE
+"Sample_2719205","HOT-ICI","No response","Sample_2719205",0.657730627248762,0,TRUE
+"Sample_2719206","HOT-ICI","Pathological partial response","Sample_2719206",0.597317834077693,1,TRUE

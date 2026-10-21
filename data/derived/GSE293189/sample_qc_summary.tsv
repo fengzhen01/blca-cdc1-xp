@@ -1,0 +1,68 @@
+gsm	patient	histology	specimen	batch_source	title	raw_cells	qc_cells	median_counts_raw	median_genes_raw	median_mito_raw
+GSM8878307	20847	Lymphoepithelioma	normal	HY	Patient 20847 (Lymphoepithelioma) Paired Normal2	466	31	6.0	5.0	0.0
+GSM8878308	20847	Lymphoepithelioma	tumor	HY	Patient 20847 (Lymphoepithelioma) Tumor1 Replica1	1133	919	1586.0	925.0	7.261078483715963
+GSM8878309	20847	Lymphoepithelioma	tumor	HY	Patient 20847 (Lymphoepithelioma) Tumor1 Replica2	648	5	4.0	3.0	0.0
+GSM8878310	20847	Lymphoepithelioma	tumor	HY	Patient 20847 (Lymphoepithelioma) Tumor2 Replica1	1052	789	1081.0	667.5	7.229013712804236
+GSM8878311	20847	Lymphoepithelioma	tumor	HY	Patient 20847 (Lymphoepithelioma) Tumor2 Replica2	671	8	9.0	9.0	0.0
+GSM8878312	20847	Lymphoepithelioma	tumor	HY	Patient 20847 (Lymphoepithelioma) Tumor3 Replica1	1341	1145	1814.0	1015.0	7.19482619240097
+GSM8878313	20847	Lymphoepithelioma	tumor	HY	Patient 20847 (Lymphoepithelioma) Tumor3 Replica2	592	9	5.0	4.0	0.0
+GSM8878314	20847	Lymphoepithelioma	normal	HY	Patient 20847 (Lymphoepithelioma) Paired Normal1	574	7	6.0	5.0	0.0
+GSM8878315	21032	CIS	normal	HY	Patient 21032 (CIS) Paired Normal1	1691	1594	9553.0	2934.0	4.197512585134735
+GSM8878316	21032	CIS	normal	HY	Patient 21032 (CIS) Paired Normal2	1627	1509	9910.0	2979.0	3.7866189075092747
+GSM8878317	21032	CIS	normal	HY	Patient 21032 (CIS) Paired Normal3	1560	1408	10176.0	3020.5	4.189109980733749
+GSM8878318	21032	CIS	tumor	HY	Patient 21032 (CIS) Tumor	1641	1313	12473.0	3837.0	2.8108495210813715
+GSM8878319	21217	Squamous + Sarcomatoid	normal	HY	Patient 21217 (Squamous + Sarcomatoid) Paired Normal	684	19	27.0	19.0	5.772113943028486
+GSM8878320	21217	Squamous + Sarcomatoid	tumor	HY	Patient 21217 (Squamous + Sarcomatoid) Tumor1 Replica1	684	165	64.5	44.0	8.333333333333332
+GSM8878321	21217	Squamous + Sarcomatoid	tumor	HY	Patient 21217 (Squamous + Sarcomatoid) Tumor1 Replica2	652	15	29.0	22.0	7.142857142857142
+GSM8878322	21217	Squamous + Sarcomatoid	tumor	HY	Patient 21217 (Squamous + Sarcomatoid) Tumor2	624	18	31.0	23.0	5.263157894736842
+GSM8878323	21217	Squamous + Sarcomatoid	tumor	HY	Patient 21217 (Squamous + Sarcomatoid) Tumor3	552	34	36.0	28.0	6.25
+GSM8878324	21222	Micropapillary	normal	HY	Patient 21222 (Micropapillary) Paired Normal1	600	30	50.0	41.5	3.75
+GSM8878325	21222	Micropapillary	normal	HY	Patient 21222 (Micropapillary) Paired Normal2	621	116	45.0	31.0	5.263157894736842
+GSM8878326	21222	Micropapillary	tumor	HY	Patient 21222 (Micropapillary) Tumor1 Replica1	617	27	33.0	24.0	9.157509157509157
+GSM8878327	21222	Micropapillary	tumor	HY	Patient 21222 (Micropapillary) Tumor1 Replica2	688	29	28.5	20.0	9.615384615384617
+GSM8878328	21222	Micropapillary	tumor	HY	Patient 21222 (Micropapillary) Tumor2 Replica1	618	107	61.5	48.0	7.59493670886076
+GSM8878329	21222	Micropapillary	tumor	HY	Patient 21222 (Micropapillary) Tumor2 Replica2	705	221	91.0	60.0	10.143198090692124
+GSM8878330	21222	Micropapillary	tumor	HY	Patient 21222 (Micropapillary) Tumor3	658	29	31.5	23.0	7.601816180517337
+GSM8878331	21226	Squamous	normal	HY	Patient 21226 (Squamous) Paired Normal1	688	121	77.0	63.0	5.073691368872091
+GSM8878332	21226	Squamous	normal	HY	Patient 21226 (Squamous) Paired Normal2	689	51	62.0	51.0	6.0
+GSM8878333	21226	Squamous	tumor	HY	Patient 21226 (Squamous) Tumor1	790	308	135.0	102.0	2.307692307692308
+GSM8878334	21226	Squamous	tumor	HY	Patient 21226 (Squamous) Tumor2 Replica1	664	30	67.0	54.0	8.922056384742952
+GSM8878335	21226	Squamous	tumor	HY	Patient 21226 (Squamous) Tumor2 Replica2	718	185	83.0	61.0	4.938271604938271
+GSM8878336	21226	Squamous	tumor	HY	Patient 21226 (Squamous) Tumor3	843	311	86.0	58.0	5.05050505050505
+GSM8878337	21226	Small large cell	tumor	HY	Patient 21226 (Small large cell) Tumor1	1572	1444	4970.5	2809.5	1.8227229558328661
+GSM8878338	21226	Small large cell	tumor	HY	Patient 21226 (Small large cell) Tumor2	1557	1473	3599.0	2246.0	2.9063205417607225
+GSM8878339	FG	CIS	tumor	HY	Patient FG (CIS) Tumor1	635	138	114.0	94.0	4.9504950495049505
+GSM8878340	FG	CIS	tumor	HY	Patient FG (CIS) Tumor2	605	13	44.0	37.0	1.8181818181818181
+GSM8878341	FG	CIS	tumor	HY	Patient FG (CIS) Tumor3	499	17	26.0	20.0	1.694915254237288
+GSM8878342	FG	Nested	normal	HY	Patient FG (Nested) Paired Normal	828	53	59.0	50.0	2.083333333333333
+GSM8878343	FG	Nested	tumor	HY	Patient FG (Nested) Tumor1 Replica1	737	297	317.0	185.0	13.173333333333334
+GSM8878344	FG	Nested	tumor	HY	Patient FG (Nested) Tumor1 Replica2	685	105	97.0	75.0	6.493506493506493
+GSM8878345	FG	Nested	tumor	HY	Patient FG (Nested) Tumor1 Replica3	730	167	86.0	72.0	8.442219582555573
+GSM8878346	FG	Nested	tumor	HY	Patient FG (Nested) Tumor2 Replica1	581	25	44.0	33.0	9.375
+GSM8878347	FG	Nested	tumor	HY	Patient FG (Nested) Tumor2 Replica2	475	43	65.0	53.0	7.042253521126761
+GSM8878348	HG	Pure UC	tumor	HY	Patient HG (Pure UC) Tumor1 Replica1	712	74	97.0	74.5	9.728367748279252
+GSM8878349	HG	Pure UC	tumor	HY	Patient HG (Pure UC) Tumor1 Replica2	416	18	55.5	45.0	10.837701417200543
+GSM8878350	HG	Pure UC	tumor	HY	Patient HG (Pure UC) Tumor2	735	194	93.0	72.0	8.73015873015873
+GSM8878351	JM	Micropapillary+pleomorphic	tumor	HY	Patient JM (Micropapillary+pleomorphic) Tumor1	678	331	424.5	296.5	6.666666666666667
+GSM8878352	JM	Micropapillary+pleomorphic	tumor	HY	Patient JM (Micropapillary+pleomorphic) Tumor2	914	589	2266.0	1372.5	7.655421818842144
+GSM8878353	JM	Micropapillary+pleomorphic	normal	HY	Patient JM (Micropapillary+pleomorphic) Paired Normal	509	137	44.0	35.0	2.941176470588235
+GSM8878354	PG_M	Paraganglioma	normal	HY	Patient PG_M (Paraganglioma) Paired Normal1	661	17	8.0	7.0	0.0
+GSM8878355	PG_M	Paraganglioma	normal	HY	Patient PG_M (Paraganglioma) Paired Normal2	612	35	6.0	5.0	0.0
+GSM8878356	PG_M	Paraganglioma	tumor	HY	Patient PG_M (Paraganglioma) Tumor1	889	523	3651.0	1603.0	10.897970530998053
+GSM8878357	PG_M	Paraganglioma	tumor	HY	Patient PG_M (Paraganglioma) Tumor2	1237	956	7314.0	2891.0	6.715594934783435
+GSM8878358	PG_S	Paraganglioma	normal	HY	Patient PG_S (Paraganglioma) Paired Normal1	705	411	1617.0	846.0	5.726587728740581
+GSM8878359	PG_S	Paraganglioma	normal	HY	Patient PG_S (Paraganglioma) Paired Normal2	892	684	3251.0	1666.0	5.984980499543606
+GSM8878360	PG_S	Paraganglioma	tumor	HY	Patient PG_S (Paraganglioma) Tumor1	1185	992	4332.0	1942.0	5.622965374371116
+GSM8878361	PG_S	Paraganglioma	tumor	HY	Patient PG_S (Paraganglioma) Tumor2	1169	900	2138.0	1191.0	7.538237436270939
+GSM8878362	PS	Micropapillary	tumor	HY	Patient PS (Micropapillary) Tumor1 Replica1	874	258	420.0	77.0	20.0
+GSM8878363	PS	Micropapillary	tumor	HY	Patient PS (Micropapillary) Tumor1 Replica2	508	6	12.0	10.0	0.0
+GSM8878364	PS	Micropapillary	tumor	HY	Patient PS (Micropapillary) Tumor2 Replica1	814	302	235.5	97.5	12.018916595012898
+GSM8878365	PS	Micropapillary	tumor	HY	Patient PS (Micropapillary) Tumor2 Replica2	580	6	17.0	13.0	0.0
+GSM8878366	12050	Squamous	normal	PA	Patient 12050 (Squamous) Paired Normal	594	412	8433.0	3340.5	2.9914975713189818
+GSM8878367	12050	Squamous	tumor	PA	Patient 12050 (Squamous) Tumor2	611	416	4056.0	1878.0	6.253006253006253
+GSM8878368	11734	Plasmacytoid	tumor	PA	Patient 11734 (Plasmacytoid) Tumor	1373	1214	1990.0	1061.0	5.368289637952559
+GSM8878369	12041	Nested	tumor	PA	Patient 12041 (Nested) Tumor	1499	1484	2960.0	1348.0	4.12821758135017
+GSM8878370	12049	Pure UC	tumor	PA	Patient 12049 (Pure UC) Tumor	864	767	3484.5	1541.5	4.158053576856741
+GSM8878371	12050	Squamous	tumor	PA	Patient 12050 (Squamous) Tumor1	929	858	3204.0	1467.0	3.9183673469387754
+GSM8878372	SG	Pure UC	tumor	SG	Patient SG (Pure UC) Tumor1	1015	273	1046.0	258.0	30.84170854271357
+GSM8878373	SG	Pure UC	tumor	SG	Patient SG (Pure UC) Tumor2	1222	283	1573.5	283.5	46.4004899856564

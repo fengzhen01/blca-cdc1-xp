@@ -1,0 +1,15 @@
+pseudobulk_id	patient	specimen	group	n_cells	n_samples
+11734__tumor__Mature DC	11734	tumor	Mature DC	4	1
+11734__tumor__cDC1	11734	tumor	cDC1	5	1
+12041__tumor__Mature DC	12041	tumor	Mature DC	20	1
+12041__tumor__cDC1	12041	tumor	cDC1	8	1
+12050__tumor__Mature DC	12050	tumor	Mature DC	25	2
+12050__tumor__cDC1	12050	tumor	cDC1	11	2
+20847__tumor__Mature DC	20847	tumor	Mature DC	8	2
+20847__tumor__cDC1	20847	tumor	cDC1	7	3
+21032__tumor__Mature DC	21032	tumor	Mature DC	10	1
+21032__tumor__cDC1	21032	tumor	cDC1	13	1
+PG_M__tumor__Mature DC	PG_M	tumor	Mature DC	7	1
+PG_M__tumor__cDC1	PG_M	tumor	cDC1	6	2
+PG_S__tumor__Mature DC	PG_S	tumor	Mature DC	3	1
+PG_S__tumor__cDC1	PG_S	tumor	cDC1	10	2

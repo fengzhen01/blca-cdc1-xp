@@ -1,0 +1,28 @@
+# Raw and licensed datasets
+data/raw/
+data/reference/
+*.RData
+*.h5ad
+*.tar.gz
+*.zip
+
+# Local dependency/runtime folders
+python_lib/
+Rlib/
+.mplconfig/
+.numba_cache/
+__pycache__/
+*.pyc
+
+# Logs, temporary and editor files
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Manuscript drafts are maintained separately
+manuscript/
+
