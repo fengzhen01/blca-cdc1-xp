@@ -1,8 +1,8 @@
-# Bladder cDC1 Cross-Presentation
+# BLCA-cDC1-XP
+
+**BLCA-cDC1-XP** (Bladder Cancer cDC1 Cross-Presentation) provides reproducible code, compact derived data and manuscript-ready figures for studying conventional type 1 dendritic cells (cDC1), antigen cross-presentation programs and immune-checkpoint treatment outcomes in bladder cancer.
 
 [中文说明](README_zh-CN.md) · [Data guide](docs/DATA.md) · [Reproduction guide](docs/REPRODUCIBILITY.md) · [Results notes](docs/RESULTS_INTERPRETATION.md)
-
-Reproducible code, compact derived data and manuscript-ready figures for studying conventional type 1 dendritic cells (cDC1), antigen cross-presentation programs and immune-checkpoint treatment outcomes in bladder cancer.
 
 > Status: analysis repository for an in-preparation manuscript. The repository supports computational reproduction; it is not a clinical prediction tool.
 
@@ -53,10 +53,10 @@ The most defensible interpretation is that the score marks a **cDC1–T-cell-inf
 ## Quick start
 
 ```bash
-git clone https://github.com/fengzhen01/bladder-cdc1-cross-presentation.git
-cd bladder-cdc1-cross-presentation
+git clone https://github.com/fengzhen01/blca-cdc1-xp.git
+cd blca-cdc1-xp
 conda env create -f environment.yml
-conda activate bladder-cdc1-cross-presentation
+conda activate blca-cdc1-xp
 ```
 
 Download the raw datasets according to [docs/DATA.md](docs/DATA.md), then place them under `data/raw/` using the documented names.
@@ -94,4 +94,3 @@ The manuscript citation will be added after publication. Until then, cite this s
 ## License and disclaimer
 
 Source code is released under the MIT License. Dataset and publication rights remain with their respective owners. Results are intended for research use only and must not be used for diagnosis, treatment selection or other clinical decisions.
-

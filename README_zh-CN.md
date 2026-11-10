@@ -1,6 +1,6 @@
-# 膀胱癌cDC1交叉呈递分析
+# BLCA-cDC1-XP：膀胱癌cDC1交叉呈递分析
 
-本仓库公开膀胱癌cDC1身份、抗原交叉呈递程序及免疫检查点治疗结局分析的可复现代码、必要派生数据、统计结果和论文级图件。
+**BLCA-cDC1-XP** 是 **Bladder Cancer cDC1 Cross-Presentation** 的缩写。本仓库公开膀胱癌cDC1身份、抗原交叉呈递程序及免疫检查点治疗结局分析的可复现代码、必要派生数据、统计结果和论文级图件。
 
 > 当前状态：论文准备阶段的分析仓库，仅用于科研复现，不属于临床诊断或治疗决策工具。
 
@@ -30,7 +30,7 @@
 
 ```bash
 conda env create -f environment.yml
-conda activate bladder-cdc1-cross-presentation
+conda activate blca-cdc1-xp
 ```
 
 原始数据获取和目录结构见 [docs/DATA.md](docs/DATA.md)，完整复现顺序见 [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md)，结果边界见 [docs/RESULTS_INTERPRETATION.md](docs/RESULTS_INTERPRETATION.md)。
@@ -42,4 +42,3 @@ GitHub仓库不直接上传以下内容：原始单细胞表达矩阵、完整H5
 ## 许可与声明
 
 代码采用MIT许可证。第三方数据和论文仍受原始许可约束。本项目仅供科研使用，不得用于临床诊断、用药选择或患者管理。
-
